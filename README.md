@@ -1,8 +1,9 @@
-#Context
+# Mail-server-config
+## Context
 When you perform Fake-Phishing campaign, you have to change the domain everytime. 
 This script will help doing this automatically.
 
-# Mail-server-config
+## Mail-server-config
 Script to change configuration on : 
 - Postfix
 - Dovecot 
@@ -10,5 +11,5 @@ Script to change configuration on :
 - OpenDmarc
 
 
-#Source : https://github.com/n0pe-sled/Postfix-Server-Setup
+## Source : https://github.com/n0pe-sled/Postfix-Server-Setup
 Thank you so much for this script that helped me a lot !
